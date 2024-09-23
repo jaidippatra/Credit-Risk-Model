@@ -28,3 +28,6 @@ This project analyzes credit risk using machine learning techniques. The objecti
 - **Accuracy**: The percentage of correct predictions made by the model.
 - **Precision, Recall, F1-Score**: Detailed classification metrics to assess model performance on predicting credit risk.
 
+## Final Model
+**XGBoost**: I have achived best accuracy using XGBoost with accuracy 78%
+
